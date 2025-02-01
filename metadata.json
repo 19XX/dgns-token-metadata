@@ -2,11 +2,23 @@
   "name": "Dungeons & Degens",
   "symbol": "DGNS",
   "description": "The official token of Dungeons & Degens. A cryptocurrency powering the first AI-driven D&D MMORPG.",
-  "image": "https://raw.githubusercontent.com/19xx/dgns-token-metadata/main/dgns-logo.jpg",
-"attributes": [
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreibdhg23zkarte23uesscpa2ssh3vyz5ewpkxkmnp5zyf4tb2b7ege",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Cryptocurrency"
+    },
+    {
+      "trait_type": "Game",
+      "value": "Dungeons & Degens"
+    }
+  ],
+  "properties": {
+    "files": [
       {
-        "trait_type": "Item",
-        "value": "Developer Portal"
+        "uri": "https://gateway.pinata.cloud/ipfs/bafkreibdhg23zkarte23uesscpa2ssh3vyz5ewpkxkmnp5zyf4tb2b7ege",
+        "type": "image/jpg"
       }
     ]
   }
+}
