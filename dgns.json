@@ -1,0 +1,19 @@
+{
+  "name": "Dungeons & Degens",
+  "symbol": "DGNS",
+  "description": "The ultimate AI-driven degen MMORPG on Solana.",
+  "image": "https://lime-electoral-reindeer-306.mypinata.cloud/ipfs/bafkreie34fjn2c74fa65uo7w6wuv2occjq3d5t6iv2hlpf3i4uxzplawqi",
+  "attributes": [
+    { "trait_type": "Blockchain", "value": "Solana" },
+    { "trait_type": "Utility", "value": "Game Economy" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://lime-electoral-reindeer-306.mypinata.cloud/ipfs/bafkreie34fjn2c74fa65uo7w6wuv2occjq3d5t6iv2hlpf3i4uxzplawqi",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
